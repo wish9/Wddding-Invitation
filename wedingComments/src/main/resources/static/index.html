@@ -100,17 +100,6 @@
             crossorigin="anonymous"></script>
 
     <script>
-        $(document).ready(function () {
-            $.ajax({
-                type: "GET",
-                url: "http://spartacodingclub.shop/sparta_api/weather/Seongnam-si",
-                data: {},
-                success: function (response) {
-                    let now_temp = response['temp'];
-                    $("#temp").text(now_temp);
-                }
-            })
-        });
 
         $(document).ready(function () {
             show_comment();
@@ -532,9 +521,6 @@
                 </div>
             </div>
 
-            <div class="mypic" style="text-align: center">
-                <p>현재 온도 <span id="temp">00.0</span>도<br> 무더위 속에도 축하해주시는 여러분 감사합니다.</p>
-            </div>
             <div class="mypost">
                 <div class="form-floating mb-3">
                     <input type="text" class="form-control" id="name" placeholder="url">
