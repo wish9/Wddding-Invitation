@@ -1,6 +1,7 @@
 package com.wish.wedingComments.comments;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.data.domain.Sort;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Controller;
@@ -20,7 +21,7 @@ public class CommentController {
 
     @GetMapping
     public ResponseEntity<List<Comment>> showComments() {
-        List<Comment> comments = commentRepository.findAll();
+        List<Comment> comments = commentRepository.findAll(Sort.by(Sort.Direction.DESC, "id"));
         return new ResponseEntity<>(comments, HttpStatus.OK);
     }
 
