@@ -11,7 +11,7 @@ import java.util.List;
 import java.util.Map;
 
 @Controller
-@CrossOrigin(origins = "http://localhost:63343")
+@CrossOrigin(origins = "https://eunjin.site")
 @RequestMapping("/comments")
 public class CommentController {
 
