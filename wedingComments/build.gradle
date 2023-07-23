@@ -41,3 +41,8 @@ dependencyManagement {
 tasks.named('test') {
 	useJUnitPlatform()
 }
+
+// 애플리케이션 실행 파일이 생성하는 :bootJar task 설정
+bootJar {
+	archiveFileName = 'wedding.jar' // 애플리케이션 이름 짧게 만들기
+}

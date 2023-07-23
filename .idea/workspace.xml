@@ -4,7 +4,53 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e096b2d7-148c-4faf-b5e8-0db229a2f85a" name="변경" comment="" />
+    <list default="true" id="e096b2d7-148c-4faf-b5e8-0db229a2f85a" name="변경" comment="init: wedding_invitation">
+      <change afterPath="$PROJECT_DIR$/wedingComments/src/main/java/com/wish/wedingComments/home/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wedingComments/src/main/resources/application-server.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/css/aos.css" beforeDir="false" afterPath="$PROJECT_DIR$/wedingComments/src/main/resources/templates/css/aos.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/css/ekko-lightbox.css" beforeDir="false" afterPath="$PROJECT_DIR$/wedingComments/src/main/resources/templates/css/ekko-lightbox.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/css/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/wedingComments/src/main/resources/templates/css/font-awesome.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/wedingComments/src/main/resources/templates/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/favicon/apple-touch-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/wedingComments/src/main/resources/templates/images/favicon/apple-touch-icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/favicon/favicon-16x16.png" beforeDir="false" afterPath="$PROJECT_DIR$/wedingComments/src/main/resources/templates/images/favicon/favicon-16x16.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/favicon/favicon-32x32.png" beforeDir="false" afterPath="$PROJECT_DIR$/wedingComments/src/main/resources/templates/images/favicon/favicon-32x32.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/gift/airfryer.png" beforeDir="false" afterPath="$PROJECT_DIR$/wedingComments/src/main/resources/templates/images/gift/airfryer.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/gift/blender.png" beforeDir="false" afterPath="$PROJECT_DIR$/wedingComments/src/main/resources/templates/images/gift/blender.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/gift/dyson.png" beforeDir="false" afterPath="$PROJECT_DIR$/wedingComments/src/main/resources/templates/images/gift/dyson.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/gift/gift-background.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/wedingComments/src/main/resources/templates/images/gift/gift-background.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/gift/lego.png" beforeDir="false" afterPath="$PROJECT_DIR$/wedingComments/src/main/resources/templates/images/gift/lego.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/gift/nespresso.png" beforeDir="false" afterPath="$PROJECT_DIR$/wedingComments/src/main/resources/templates/images/gift/nespresso.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/gift/nespresso_machine.png" beforeDir="false" afterPath="$PROJECT_DIR$/wedingComments/src/main/resources/templates/images/gift/nespresso_machine.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/gift/philips_clenser.png" beforeDir="false" afterPath="$PROJECT_DIR$/wedingComments/src/main/resources/templates/images/gift/philips_clenser.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/gift/range.png" beforeDir="false" afterPath="$PROJECT_DIR$/wedingComments/src/main/resources/templates/images/gift/range.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/gift/wineceller.png" beforeDir="false" afterPath="$PROJECT_DIR$/wedingComments/src/main/resources/templates/images/gift/wineceller.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/main-background.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/wedingComments/src/main/resources/templates/images/main-background.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/main-background.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/wedingComments/src/main/resources/templates/images/main-background.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/map/google-map.png" beforeDir="false" afterPath="$PROJECT_DIR$/wedingComments/src/main/resources/templates/images/map/google-map.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/map/kakao-map.png" beforeDir="false" afterPath="$PROJECT_DIR$/wedingComments/src/main/resources/templates/images/map/kakao-map.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/map/map.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/wedingComments/src/main/resources/templates/images/map/map.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/map/naver-map.png" beforeDir="false" afterPath="$PROJECT_DIR$/wedingComments/src/main/resources/templates/images/map/naver-map.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/pic1.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/wedingComments/src/main/resources/templates/images/pic1.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/pic2.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/wedingComments/src/main/resources/templates/images/pic2.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/pic3.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/wedingComments/src/main/resources/templates/images/pic3.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/pic4.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/wedingComments/src/main/resources/templates/images/pic4.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/pic5.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/wedingComments/src/main/resources/templates/images/pic5.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/pic6.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/wedingComments/src/main/resources/templates/images/pic6.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/pic7.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/wedingComments/src/main/resources/templates/images/pic7.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/pic8.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/wedingComments/src/main/resources/templates/images/pic8.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/pic9.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/wedingComments/src/main/resources/templates/images/pic9.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/reception.png" beforeDir="false" afterPath="$PROJECT_DIR$/wedingComments/src/main/resources/templates/images/reception.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/wedding-party.png" beforeDir="false" afterPath="$PROJECT_DIR$/wedingComments/src/main/resources/templates/images/wedding-party.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/wedingComments/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/js/aos.js" beforeDir="false" afterPath="$PROJECT_DIR$/wedingComments/src/main/resources/templates/js/aos.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/js/ekko-lightbox.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wedingComments/src/main/resources/templates/js/ekko-lightbox.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/js/parallax.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/wedingComments/src/main/resources/templates/js/parallax.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/mus.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/wedingComments/src/main/resources/templates/mus.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/scripts/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/wedingComments/src/main/resources/templates/scripts/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/styles/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/wedingComments/src/main/resources/templates/styles/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wedingComments/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/wedingComments/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wedingComments/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/wedingComments/src/main/resources/application.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,8 +71,9 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/AAWonJong/it/Project/seb43_main_016",
+    "last_opened_file_path": "D:/AAWonJong/it/Project/wedding_invitation/wedingComments",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -34,6 +81,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\AAWonJong\it\Project\wedding_invitation\wedingComments\src\main\resources" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="디폴트 작업">
@@ -42,11 +94,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1690081087407</updated>
-      <workItem from="1690081089559" duration="822000" />
+      <workItem from="1690081089559" duration="4227000" />
     </task>
+    <task id="LOCAL-00001" summary="init: wedding_invitation">
+      <created>1690082206884</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1690082206884</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init: wedding_invitation" />
+    <option name="LAST_COMMIT_MESSAGE" value="init: wedding_invitation" />
   </component>
 </project>
